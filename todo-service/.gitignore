@@ -1,0 +1,23 @@
+# Eclipse-specific files
+.classpath
+.project
+.settings/
+
+# Compiled class file
+*.class
+
+# Log files
+log/
+*.log
+
+# Compiled files
+target/
+bin/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven specific
+mvnw
+mvnw.cmd
